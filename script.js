@@ -4,6 +4,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     loginButton.addEventListener('click', () => {
         form.submit(); // Submits the form
-        window.location.href = 'https:pagina1.html'; // Redirects after submission
+        window.location.href='https://www.youtube.com/?app=desktop&hl=pt'; // Redirects after submission
     });
 });
